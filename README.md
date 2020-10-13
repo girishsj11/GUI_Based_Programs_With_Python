@@ -13,7 +13,7 @@ GUI based program interface can easily grab the attention of user
     - Once user has clicked 'Run' button , then program will takes above 2 inputs as main inputs & lists out the below parameters from the root path:
       - Total count of files & listing those files
       - count of only text files & listing those files
-      - count of files which has search term/keyword on those above text files 
+      - count of files which has search term/keyword on those above text files & listing those files
      
     
   
