@@ -1,4 +1,4 @@
-# Graphical_User_Interface-GUI-Based-Programs-on-Python
+# Graphical_User_Interface(GUI)_Based-Programs_with_Python
 GUI based program interface can easily grab the attention of user
 
 ### **Keyword_search_on_text_files**
